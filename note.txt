@@ -3,3 +3,5 @@ git status
 git add .
 git commit -m "message"
 git push 
+git branch (branch list)
+git checkout -b branch_name
